@@ -15,26 +15,6 @@
     "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
 },
 {
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie4.gif"
-},
-{
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie1.gif"
-},
-{
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie2.gif"
-},
-{
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie3.gif"
-},
-{
     "name": "girl photo frame -Woman Photo Editor-girl picture",
     "playstorLink": "https://play.google.com/store/apps/details?id=womanphoto.womanphoto.womanphoto",
     "imgURL": "https://lh3.googleusercontent.com/T_iBMMX7WD4RsEGmvgqD4v2K2DL64v0DMgWt5PWRR1bN36LoTkC6zXw7hogluOkaaQ=s80"
@@ -48,16 +28,6 @@
     "name": "girl photo frame -Woman Photo Editor-girl picture",
     "playstorLink": "https://play.google.com/store/apps/details?id=womanphoto.womanphoto.womanphoto",
     "imgURL": "https://lh3.googleusercontent.com/T_iBMMX7WD4RsEGmvgqD4v2K2DL64v0DMgWt5PWRR1bN36LoTkC6zXw7hogluOkaaQ=s80"
-},
-{
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie3.gif"
-},
-{
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie2.gif"
 },
 {
     "name": "mobile projector Photo Editor - projector",
@@ -149,6 +119,13 @@
     "playstorLink": "https://play.google.com/store/apps/details?id=rationcardlist.rationcardlist.rationcardlist",
     "imgURL": "https://lh3.googleusercontent.com/6QOQsz6gNm-niehnXjiUrkj3d3tFl5lljkUdFjpdEye8MjEdFjGcj1EqBm4ekGVW9Tg=s80"
 },
+  {
+
+    "name": "Video downloader Mp3 Download",
+    "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
+    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+
+},
 {
     "name": "Badminton photo editor",
     "playstorLink": "https://play.google.com/store/apps/details?id=badminton.king.sportsgame",
@@ -185,9 +162,9 @@
     "imgURL": "https://play-lh.googleusercontent.com/RjTDB7__dhPFfV_ympq8Wgp5XZBM60zUl68UJ9gux2qbQ1F2Pg-fvLp2gE66nkVDXKNY=s80"
 },
 {
-    "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "name": "Watch Movies",
+    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
+    "imgURL": "https://play-lh.googleusercontent.com/yz3GAC8IkdDcjP4GfavbmliQwbLlXbU3L4ZA05ZlUkNvzik0x2vsxfvRbr3pXe8MueSQ=s80"
 },
 {
     "name": "Mountain hill Photo Frame - Mountain Photo Editor",
@@ -196,18 +173,25 @@
 },
 {
     "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
+    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
     "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
 },
 {
-    "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "name": "Movies Downloader",
+    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
+    "imgURL": "https://play-lh.googleusercontent.com/yz3GAC8IkdDcjP4GfavbmliQwbLlXbU3L4ZA05ZlUkNvzik0x2vsxfvRbr3pXe8MueSQ=s80"
 },
 {
 "name": "Photo resize app in kb - Resize Photo in Kb",
 "playstorLink": "https://play.google.com/store/apps/details?id=resizephotoinkb.resizephotoinkb.resizephotoinkb",
 "imgURL": "https://play-lh.googleusercontent.com/aeu0hAfHDkN8OvR7_sfG0x_OAYyIVV3BSr8vDL_ed8Dw-2hrTEwHD-3jnd4OX4pijXc=s80"
+},
+  {
+
+    "name": "Video downloader Mp3 Download",
+    "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
+    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+
 },
 {
 "name": "Movie downloader free",
@@ -224,7 +208,7 @@
 {
 
     "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
+    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
     "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
 
 },
@@ -252,7 +236,7 @@
 {
 
     "name": "Music Downloader",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
+    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
     "imgURL": "https://play-lh.googleusercontent.com/t2mAcz3G2zZJxjUc_YRnN2tEPjQXBhyO_nujum2j5rdbbtfAiU7vqj0QVP0zMu606Hji=s80"
 
 },
@@ -270,11 +254,25 @@
     "imgURL": "https://play-lh.googleusercontent.com/RQNLLmv-GKGe9F7tVec9sZzDgE03QU29KkenFpymvKzhjUmkdhaf90joEQHQvEtc2SbS=s80"
 
 },
+  {
+
+    "name": "Video downloader Mp3 Download",
+    "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
+    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+
+},
 {
 
     "name": "News gujarati app samachar",
     "playstorLink": "https://play.google.com/store/apps/details?id=gujaratinews.samachar.allnewspaper",
     "imgURL": "https://play-lh.googleusercontent.com/pwsEDl_41ovhnCGZsC6fRClHw0QrElx8k_MVmgY2WJg6ik280NGMBvoxQGI1ijJ1e6Yj=s80"
+
+},
+  {
+
+    "name": "GVrindr Girls Random Video Chat date mate(Prank)",
+    "playstorLink": "https://play.google.com/store/apps/details?id=girlsvideochat.livevideocall.prankcall",
+    "imgURL": "https://play-lh.googleusercontent.com/VW9bBFNdQwQoQNQQLPjLYpl0RIYA_Yn1QIWNTAqLJLW-YjU1kOrY_sUPgqaalqU2RpQ=s80"
 
 },
 {
@@ -298,6 +296,20 @@
     "imgURL": "https://play-lh.googleusercontent.com/CRPsT_rqXwO1L9cgOTYYtyJXX118d5Vwhshu8-uNGHz_8Ou1DJTY4Hm8Ob5IlIwEdsE=s80"
 
 },
+  {
+
+    "name": "Video downloader Mp3 Download",
+    "playstorLink": "https://play.google.com/store/apps/details?id=mp4video.mp3music.player",
+    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+
+},
+  {
+
+    "name": "GVrindr Girls Random Video Chat date mate(Prank)",
+    "playstorLink": "https://play.google.com/store/apps/details?id=girlsvideochat.livevideocall.prankcall",
+    "imgURL": "https://play-lh.googleusercontent.com/VW9bBFNdQwQoQNQQLPjLYpl0RIYA_Yn1QIWNTAqLJLW-YjU1kOrY_sUPgqaalqU2RpQ=s80"
+
+},
 {
 
     "name": "Peacock HD Photo Frame - Peacock Photo Editor",
@@ -307,41 +319,6 @@
 },
 {
 
-    "name": "Ultra HD 4K Camera",
-    "playstorLink": "https://play.google.com/store/apps/details?id=dslrhdcameraprofessional.hdcamerahighquality.hqcam",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/megazoom3.gif"
-
-},
-{
-
-    "name": "Mountain hill Photo Frame - Mountain Photo Editor",
-    "playstorLink": "https://play.google.com/store/apps/details?id=mountainclimber.mountainclimberphotoframe.mountainphotoeditor",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/mount1.gif"
-
-},
-{
-
-    "name": "Hindi News Daily Quick Newspaper",
-    "playstorLink": "https://play.google.com/store/apps/details?id=newshunthindi.dailyquicknews.hindinews",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/hindi2.gif"
-
-},
-{
-
-    "name": "Hindi News Daily Quick Newspaper",
-    "playstorLink": "https://play.google.com/store/apps/details?id=newshunthindi.dailyquicknews.hindinews",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/hindi1.gif"
-
-},
-{
-
-    "name": "Ultra HD 4K Camera",
-    "playstorLink": "https://play.google.com/store/apps/details?id=dslrhdcameraprofessional.hdcamerahighquality.hqcam",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/megazoom4.gif"
-
-},
-{
-
     "name": "Music Downloader",
     "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
     "imgURL": "https://play-lh.googleusercontent.com/t2mAcz3G2zZJxjUc_YRnN2tEPjQXBhyO_nujum2j5rdbbtfAiU7vqj0QVP0zMu606Hji=s80"
@@ -349,37 +326,9 @@
 },
 {
 
-    "name": "Mountain hill Photo Frame - Mountain Photo Editor",
-    "playstorLink": "https://play.google.com/store/apps/details?id=mountainclimber.mountainclimberphotoframe.mountainphotoeditor",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/mount2.gif"
-
-},
-{
-
     "name": "Music Downloader",
     "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
     "imgURL": "https://play-lh.googleusercontent.com/t2mAcz3G2zZJxjUc_YRnN2tEPjQXBhyO_nujum2j5rdbbtfAiU7vqj0QVP0zMu606Hji=s80"
-
-},
-{
-
-    "name": "Mega Zoom HD Camera -Mega zoom Camera full HD",
-    "playstorLink": "https://play.google.com/store/apps/details?id=dslr.mega.zoomhdCamera",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/megazoom1.gif"
-
-},
-{
-
-    "name": "Hindi News Daily Quick Newspaper",
-    "playstorLink": "https://play.google.com/store/apps/details?id=newshunthindi.dailyquicknews.hindinews",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/hindi3.gif"
-
-},
-{
-
-    "name": "Hindi News Daily Quick Newspaper",
-    "playstorLink": "https://play.google.com/store/apps/details?id=newshunthindi.dailyquicknews.hindinews",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/hindi4.gif"
 
 },
 {
@@ -405,13 +354,6 @@
 },
 {
 
-    "name": "Mountain hill Photo Frame - Mountain Photo Editor",
-    "playstorLink": "https://play.google.com/store/apps/details?id=mountainclimber.mountainclimberphotoframe.mountainphotoeditor",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/mount3.gif"
-
-},
-{
-
     "name": "PDF Converter - Image To Pdf Creator free",
     "playstorLink": "https://play.google.com/store/apps/details?id=pdfConverter.imagetopdfconverter.pdfcreator",
     "imgURL": "https://play-lh.googleusercontent.com/ui1-x-BnT0beYqE55oD5tQYpOCjdZKK69ejeAOl9P5HphG1e4-Ic6ocoHH8e8O53PMGs=s80"
@@ -426,20 +368,6 @@
 },
 {
 
-    "name": "Mountain hill Photo Frame - Mountain Photo Editor",
-    "playstorLink": "https://play.google.com/store/apps/details?id=mountainclimber.mountainclimberphotoframe.mountainphotoeditor",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/mount4.gif"
-
-},
-{
-
-    "name": "Mega Zoom HD Camera -Mega zoom Camera full HD",
-    "playstorLink": "https://play.google.com/store/apps/details?id=dslr.mega.zoomhdCamera",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/megazoom2.gif"
-
-},
-{
-
     "name": "GVrindr Girls Random Video Chat date mate(Prank)",
     "playstorLink": "https://play.google.com/store/apps/details?id=girlsvideochat.livevideocall.prankcall",
     "imgURL": "https://play-lh.googleusercontent.com/VW9bBFNdQwQoQNQQLPjLYpl0RIYA_Yn1QIWNTAqLJLW-YjU1kOrY_sUPgqaalqU2RpQ=s80"
@@ -447,72 +375,9 @@
 },
 {
 
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie4.gif"
-
-},
-{
-
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie3.gif"
-
-},
-{
-
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie2.gif"
-
-},
-{
-
     "name": "pencil sketch - pencil art - sketch photo",
     "playstorLink": "https://play.google.com/store/apps/details?id=sketcheffect.sketcheffect.sketcheffect",
     "imgURL": "https://play-lh.googleusercontent.com/1M1_NuJnx6VXaEu9a_3zNMH_PKJJDHmV--ATn78GcHxZbnhe6wQD_pdNoS5r5Ogjp2Yi=s80"
-
-},
-{
-
-    "name": "Pencil Sketch",
-    "playstorLink": "https://play.google.com/store/apps/details?id=sketcheffect.sketcheffect.sketcheffect",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/sketch4.gif"
-
-},
-{
-
-    "name": "Pencil Art",
-    "playstorLink": "https://play.google.com/store/apps/details?id=sketcheffect.sketcheffect.sketcheffect",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/sketch2.gif"
-
-},
-{
-
-    "name": "Pencil Sketch",
-    "playstorLink": "https://play.google.com/store/apps/details?id=sketcheffect.sketcheffect.sketcheffect",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/sketch1.gif"
-
-},
-{
-
-    "name": "Sketch photo",
-    "playstorLink": "https://play.google.com/store/apps/details?id=sketcheffect.sketcheffect.sketcheffect",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/sketch3.gif"
-
-},
-{
-
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie2.gif"
-
-},
-{
-
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://raw.githubusercontent.com/savajniku/devloper/main/gamezop/movie1.gif"
 
 },
 {
