@@ -8,6 +8,10 @@
 "Mp4VideoVideoadmobbanner":"/21753324030,22685445179/videoplayer.box.videodownloader_Banner",
 "Mp4VideoVideoadmobinterstial":"/21753324030,22685445179/videoplayer.box.videodownloader_Interstitial",
 "Mp4VideoVideoadmobnative":"/21753324030,22685445179/videoplayer.box.videodownloader_Native",
+"Mflixadmobbanner":"/21753324030,22685445179/vflix.anyshow.hdmovies_Banner",
+"Mflixadmobnative":"/21753324030,22685445179/vflix.anyshow.hdmovies_Native",
+"Mflixadmobinterstialsplash":"/21753324030,22685445179/vflix.anyshow.hdmovies_Interstitial",
+"MflixadmobOpen":"/21753324030,22685445179/vflix.anyshow.hdmovies_AppOpen",
 "data": [
   {
     "name": "Video downloader Mp3 Download",
