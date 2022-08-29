@@ -20,6 +20,10 @@
 "ShowBoxTvadmobnative":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_Native",
 "ShowBoxTvadmobOpen":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_AppOpen",
 "ShowBoxTvadmobinterstialsplash":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_Interstitial",
+"CreditCardValidatoradmobbanner":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Banner",
+"CreditCardValidatoradmobnative":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Native",
+"CreditCardValidatoradmobOpen":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_AppOpen",
+"CreditCardValidatoradmobinterstialsplash":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Interstitial",
 "data": [
   {
     "name": "Video downloader Mp3 Download",
