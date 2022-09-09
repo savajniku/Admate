@@ -24,6 +24,10 @@
 "CreditCardValidatoradmobnative":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Native",
 "CreditCardValidatoradmobOpen":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_AppOpen",
 "CreditCardValidatoradmobinterstialsplash":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Interstitial",
+ "GlobalRandomVideocalladmobbanner":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Banner",
+ "GlobalRandomVideocalladmobinterstial":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Interstitial",
+ "GlobalRandomVideocalladmobnative":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Native",
+ "GlobalRandomVideocalladmobOpen":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_AppOpen",
 "data": [
   {
     "name": "Video downloader Mp3 Download",
