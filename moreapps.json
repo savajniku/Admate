@@ -28,6 +28,10 @@
  "GlobalRandomVideocalladmobinterstial":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Interstitial",
  "GlobalRandomVideocalladmobnative":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Native",
  "GlobalRandomVideocalladmobOpen":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_AppOpen",
+ "PikashowMoviesadmobbanner":"ca-app-pub-3940256099942544/6300978111ab",
+ "PikashowMoviesadmobnative":"ca-app-pub-3940256099942544/2247696110ab",
+ "PikashowMoviesadmobOpen":"ca-app-pub-3940256099942544/3419835294ab",
+ "PikashowMoviesadmobinterstialsplash":"ca-app-pub-3940256099942544/1033173712ab",
 "data": [
   {
     "name": "Video downloader Mp3 Download",
