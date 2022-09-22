@@ -36,6 +36,7 @@
  "SpinLinkadmobinterstial":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Interstitial",
  "SpinLinkadmobnative":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Native",
  "SpinLinkadmobOpen":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_AppOpen",
+ "SpinLinkinterval":40,
 "data": [
   {
     "name": "Video downloader Mp3 Download",
