@@ -21,6 +21,7 @@
 "ShowBoxTvadmobnative":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_Native",
 "ShowBoxTvadmobOpen":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_AppOpen",
 "ShowBoxTvadmobinterstialsplash":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_Interstitial",
+ "ShowBoxTvinterval":20,
 "CreditCardValidatoradmobbanner":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Banner",
 "CreditCardValidatoradmobnative":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Native",
 "CreditCardValidatoradmobOpen":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_AppOpen",
@@ -29,6 +30,7 @@
  "GlobalRandomVideocalladmobinterstial":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Interstitial",
  "GlobalRandomVideocalladmobnative":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Native",
  "GlobalRandomVideocalladmobOpen":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_AppOpen",
+ "GlobalRandomVideocallinterval":20,
  "PikashowMoviesadmobbanner":"/21753324030,22685445179/pikashowmovieswebseries.showbox.pikashowmovieswebseries_Banner",
  "PikashowMoviesadmobnative":"/21753324030,22685445179/pikashowmovieswebseries.showbox.pikashowmovieswebseries_Native",
  "PikashowMoviesadmobOpen":"/21753324030,22685445179/pikashowmovieswebseries.showbox.pikashowmovieswebseries_AppOpen",
@@ -38,6 +40,11 @@
  "SpinLinkadmobnative":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Native",
  "SpinLinkadmobOpen":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_AppOpen",
  "SpinLinkinterval":15,
+ "CoinSpinadmobbanner":"/21753324030,22685445179/spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins_Banner",
+ "CoinSpinadmobinterstial":"/21753324030,22685445179/spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins_Interstitial",
+ "CoinSpinadmobnative":"/21753324030,22685445179/spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins_Native",
+ "CoinSpinadmobOpen":"/21753324030,22685445179/spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins_AppOpen",
+ "CoinSpininterval":20,
 "data": [
   {
     "name": "Video downloader Mp3 Download",
