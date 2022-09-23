@@ -13,6 +13,7 @@
 "Mflixadmobnative":"/21753324030,22685445179/vflix.anyshow.hdmovies_Native",
 "Mflixadmobinterstialsplash":"/21753324030,22685445179/vflix.anyshow.hdmovies_Interstitial",
 "MflixadmobOpen":"/21753324030,22685445179/vflix.anyshow.hdmovies_AppOpen",
+ "Mflixinterval":15,
 "LoanCalculateradmobbanner":"/150790500,22685445179/25268_APP_BANNER_320x50",
 "LoanCalculateradmobinterstial":"/150790500,22685445179/25268_APP_INTER",
 "LoanCalculateradmobsplash":"/150790500,22685445179/25268_APP_INTER",
@@ -31,10 +32,11 @@
  "GlobalRandomVideocalladmobnative":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Native",
  "GlobalRandomVideocalladmobOpen":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_AppOpen",
  "GlobalRandomVideocallinterval":20,
- "PikashowMoviesadmobbanner":"/21753324030,22685445179/pikashowmovieswebseries.showbox.pikashowmovieswebseries_Banner",
- "PikashowMoviesadmobnative":"/21753324030,22685445179/pikashowmovieswebseries.showbox.pikashowmovieswebseries_Native",
- "PikashowMoviesadmobOpen":"/21753324030,22685445179/pikashowmovieswebseries.showbox.pikashowmovieswebseries_AppOpen",
- "PikashowMoviesadmobinterstialsplash":"/21753324030,22685445179/pikashowmovieswebseries.showbox.pikashowmovieswebseries_Interstitial",
+ "PikashowMoviesadmobbanner":"jdvbdvbbb",
+ "PikashowMoviesadmobnative":"dvnlkdnl",
+ "PikashowMoviesadmobOpen":"xcviikni",
+ "PikashowMoviesadmobinterstialsplash":"jdvndn",
+ "PikashowMoviesinterval":15,
  "SpinLinkadmobbanner":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Banner",
  "SpinLinkadmobinterstial":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Interstitial",
  "SpinLinkadmobnative":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Native",
@@ -415,12 +417,35 @@
     "imgURL": "https://play-lh.googleusercontent.com/VW9bBFNdQwQoQNQQLPjLYpl0RIYA_Yn1QIWNTAqLJLW-YjU1kOrY_sUPgqaalqU2RpQ=s80"
 
 },
+ {
+    "name": "Freeflix Movies downloader",
+    "playstorLink": "https://play.google.com/store/apps/details?id=vflix.anyshow.hdmovies",
+    "imgURL": "https://play-lh.googleusercontent.com/odA4trig25AWyBUIeuAjnBzJyuBl7HA8FGY4FbgrdohrDpm71uqwdxbbm7J-g0WBwK0=s80"
+},
+ {
+    "name": "Spin Master Spin and Coin",
+    "playstorLink": "https://play.google.com/store/apps/details?id=spinlink.spinrewards.dailyspins.coins.spins",
+    "imgURL": "https://play-lh.googleusercontent.com/8Hp5Owx-pdkAg_F99WCECCk4W1TG2pblRKAmZfJcHMdZudw9mqjuIKG_c8LwFv8uMSso=s80"
+},
+ {
+    "name": "Show Box MoviesTV Shows",
+    "playstorLink": "https://play.google.com/store/apps/details?id=com.watchmovies.showboxmoviestvshows",
+    "imgURL": "https://play-lh.googleusercontent.com/gRr4YTugyX7xeakhx_u863vdOs-X1lFJ_o8ACkuMicIMhctf2FgSdF6xroAY790xpiFH=s80"
+},
+ {
+    "name": "Video Call Random - Live Talk",
+    "playstorLink": "https://play.google.com/store/apps/details?id=nk.globalcall.globalrandomvideocall",
+    "imgURL": "https://play-lh.googleusercontent.com/oeoKaaGZy74x5s_WVuouRyvZXa9KOO5b2QKpM89Wvr8kbcxCeVISsKhKrN4o-6wWgQ=s80"
+},
+ {
+    "name": "Spin LinkCoin Master Spins",
+    "playstorLink": "https://play.google.com/store/apps/details?id=spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins",
+    "imgURL": "https://play-lh.googleusercontent.com/nFrtFRIHhKe4vgp-ek7PSFGziSZHsChDUIfXbvbrrBGsxcU1-wtXtP3dQ-HRAeXhuw=s80"
+},
 {
-
     "name": "pencil sketch - pencil art - sketch photo",
     "playstorLink": "https://play.google.com/store/apps/details?id=sketcheffect.sketcheffect.sketcheffect",
     "imgURL": "https://play-lh.googleusercontent.com/1M1_NuJnx6VXaEu9a_3zNMH_PKJJDHmV--ATn78GcHxZbnhe6wQD_pdNoS5r5Ogjp2Yi=s80"
-
 },
 {
 "name": "English News",
