@@ -37,7 +37,7 @@
  "PikashowMoviesadmobnative":"dvnlkdnl",
  "PikashowMoviesadmobOpen":"xcviikni",
  "PikashowMoviesadmobinterstialsplash":"jdvndn",
- "PikashowMoviesinterval":15,
+ "PikashowMoviesinterval":20,
  "SpinLinkadmobbanner":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Banner",
  "SpinLinkadmobinterstial":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Interstitial",
  "SpinLinkadmobnative":"/21753324030,22685445179/spinlink.spinrewards.dailyspins.coins.spins_Native",
@@ -48,6 +48,11 @@
  "CoinSpinadmobnative":"/21753324030,22685445179/spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins_Native",
  "CoinSpinadmobOpen":"/21753324030,22685445179/spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins_AppOpen",
  "CoinSpininterval":20,
+ "gayanmusicadmobbanner":"/21753324030,22685445179/mp3.gayan.mp3musicdownloader_Banner",
+ "gayanmusicadmobinterstial":"/21753324030,22685445179/mp3.gayan.mp3musicdownloader_Interstitial",
+ "gayanmusicadmobnative":"/21753324030,22685445179/mp3.gayan.mp3musicdownloader_Native",
+ "gayanmusicadmobOpen":"/21753324030,22685445179/mp3.gayan.mp3musicdownloader_AppOpen",
+ "gayanmusicinterval":20,
 "data": [
   {
     "name": "Video downloader Mp3 Download",
