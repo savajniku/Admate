@@ -53,6 +53,11 @@
  "gayanmusicadmobnative":"/21753324030,22685445179/mp3.gayan.mp3musicdownloader_Native",
  "gayanmusicadmobOpen":"/21753324030,22685445179/mp3.gayan.mp3musicdownloader_AppOpen",
  "gayanmusicinterval":20,
+ "SpinRewardLinkadmobbanner":"/21753324030,22685445179/spinmaster.rewardlinkspins.spinmasterrewardlinkspins_Banner",
+ "SpinRewardLinkadmobinterstial":"/21753324030,22685445179/spinmaster.rewardlinkspins.spinmasterrewardlinkspins_Interstitial",
+ "SpinRewardLinkadmobnative":"/21753324030,22685445179/spinmaster.rewardlinkspins.spinmasterrewardlinkspins_Native",
+ "SpinRewardLinkadmobOpen":"/21753324030,22685445179/spinmaster.rewardlinkspins.spinmasterrewardlinkspins_AppOpen",
+ "SpinRewardLinkinterval":20,
 "data": [
   {
     "name": "Video downloader Mp3 Download",
