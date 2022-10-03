@@ -58,6 +58,11 @@
  "SpinRewardLinkadmobnative":"/21753324030,22685445179/spinmaster.rewardlinkspins.spinmasterrewardlinkspins_Native",
  "SpinRewardLinkadmobOpen":"/21753324030,22685445179/spinmaster.rewardlinkspins.spinmasterrewardlinkspins_AppOpen",
  "SpinRewardLinkinterval":10,
+ "RainbowHDMovieadmobbanner":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_Banner",
+ "RainbowHDMovieadmobnative":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_Native",
+ "RainbowHDMovieadmobOpen":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_AppOpen",
+ "RainbowHDMovieadmobinterstialsplash":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_Interstitial",
+ "RainbowHDMovieinterval":"10",
 "data": [
   {
     "name": "Video downloader Mp3 Download",
