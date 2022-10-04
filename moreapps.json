@@ -62,7 +62,12 @@
  "RainbowHDMovieadmobnative":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_Native",
  "RainbowHDMovieadmobOpen":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_AppOpen",
  "RainbowHDMovieadmobinterstialsplash":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_Interstitial",
- "RainbowHDMovieinterval":"10",
+ "RainbowHDMovieinterval":10,
+ "setRingtoneadmobbanner":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_Banner",
+ "setRingtoneadmobinterstial":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_Interstitial",
+ "setRingtoneadmobnative":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_Native",
+ "setRingtoneadmobOpen":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_AppOpen",
+ "setRingtoneinterval":10,
 "data": [
   {
     "name": "Video downloader Mp3 Download",
