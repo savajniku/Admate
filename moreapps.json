@@ -24,6 +24,7 @@
 "ShowBoxTvadmobOpen":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_AppOpen",
 "ShowBoxTvadmobinterstialsplash":"/21753324030,22685445179/com.watchmovies.showboxmoviestvshows_Interstitial",
  "ShowBoxTvinterval":10,
+ "ShowBoxTvDownload":true,
 "CreditCardValidatoradmobbanner":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Banner",
 "CreditCardValidatoradmobnative":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_Native",
 "CreditCardValidatoradmobOpen":"/21753324030,22685445179/nk.creditcardbincheck.cardvarifier.creditcardvalidator_AppOpen",
@@ -212,9 +213,9 @@
     "imgURL": "https://play-lh.googleusercontent.com/QPWjcOegqGXLLbycOGafemB2uGwofsFJp24c31rywXd1Fr87yir_HoGz9iSKgshtBNQ=s80"
 },
 {
-    "name": "Ultra HD 4K Camera",
-    "playstorLink": "https://play.google.com/store/apps/details?id=dslrhdcameraprofessional.hdcamerahighquality.hqcam",
-    "imgURL": "https://lh3.googleusercontent.com/R3IbsRmvINbp9FuCIfixddKIhYbM_1Yu_a7ODBcWa8khHAVcMi4usQ-LdOZyQ8HcjKs=s80"
+    "name": "HD Video Watch 4k Download",
+    "playstorLink": "https://play.google.com/store/apps/details?id=showboxhdmoviehub.showbox.moviehub",
+    "imgURL": "https://play-lh.googleusercontent.com/_eZ9Wsx8K_kBuvYjUgPwmlsqyIkuVzrqNSYrjPnoJrYS4ro6aAVvBVBvzGcw-J86V4w=s80"
 },
 {
     "name": "Horoscope Zodiac Photo Frame - Zodiac Photo Editor",
