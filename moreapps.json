@@ -69,6 +69,11 @@
  "setRingtoneadmobnative":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_Native",
  "setRingtoneadmobOpen":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_AppOpen",
  "setRingtoneinterval":10,
+ "DynamicIslandadmobbanner":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_Banner",
+ "DynamicIslandadmobinterstial":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_Interstitial",
+ "DynamicIslandadmobnative":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_Native",
+ "DynamicIslandadmobOpen":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_AppOpen",
+ "DynamicIslandinterval":10,
 "data": [
   {
     "name": "Video downloader Mp3 Download",
