@@ -9,12 +9,12 @@
 "Mp4VideoVideoadmobbanner":"/21753324030,22685445179/videoplayer.box.videodownloader_Banner",
 "Mp4VideoVideoadmobinterstial":"/21753324030,22685445179/videoplayer.box.videodownloader_Interstitial",
 "Mp4VideoVideoadmobnative":"/21753324030,22685445179/videoplayer.box.videodownloader_Native",
-"Mp4VideoVideointerval":10,
+"Mp4VideoVideointerval":5,
 "Mflixadmobbanner":"/21753324030,22685445179/vflix.anyshow.hdmovies_Banner",
 "Mflixadmobnative":"/21753324030,22685445179/vflix.anyshow.hdmovies_Native",
 "Mflixadmobinterstialsplash":"/21753324030,22685445179/vflix.anyshow.hdmovies_Interstitial",
 "MflixadmobOpen":"/21753324030,22685445179/vflix.anyshow.hdmovies_AppOpen",
- "Mflixinterval":10,
+ "Mflixinterval":5,
 "LoanCalculateradmobbanner":"/150790500,22685445179/25268_APP_BANNER_320x50",
 "LoanCalculateradmobinterstial":"/150790500,22685445179/25268_APP_INTER",
 "LoanCalculateradmobsplash":"/150790500,22685445179/25268_APP_INTER",
@@ -33,7 +33,7 @@
  "GlobalRandomVideocalladmobinterstial":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Interstitial",
  "GlobalRandomVideocalladmobnative":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_Native",
  "GlobalRandomVideocalladmobOpen":"/21753324030,22685445179/nk.globalcall.globalrandomvideocall_AppOpen",
- "GlobalRandomVideocallinterval":10,
+ "GlobalRandomVideocallinterval":5,
  "HDMovieHubadmobbanner":"/21753324030,22685445179/showboxhdmoviehub.showbox.moviehub_Banner",
  "HDMovieHubadmobnative":"/21753324030,22685445179/showboxhdmoviehub.showbox.moviehub_Native",
  "HDMovieHubadmobOpen":"/21753324030,22685445179/showboxhdmoviehub.showbox.moviehub_AppOpen",
@@ -63,22 +63,22 @@
  "RainbowHDMovieadmobnative":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_Native",
  "RainbowHDMovieadmobOpen":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_AppOpen",
  "RainbowHDMovieadmobinterstialsplash":"/21753324030,22685445179/hdmovieshowbox.moviebox.rainbowhdmovieshowbox_Interstitial",
- "RainbowHDMovieinterval":10,
+ "RainbowHDMovieinterval":5,
  "setRingtoneadmobbanner":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_Banner",
  "setRingtoneadmobinterstial":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_Interstitial",
  "setRingtoneadmobnative":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_Native",
  "setRingtoneadmobOpen":"/21753324030,22685445179/ringtone.callartune.musicdownloadsetringtone_AppOpen",
- "setRingtoneinterval":10,
+ "setRingtoneinterval":5,
  "DynamicIslandadmobbanner":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_Banner",
  "DynamicIslandadmobinterstial":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_Interstitial",
  "DynamicIslandadmobnative":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_Native",
  "DynamicIslandadmobOpen":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_AppOpen",
- "DynamicIslandinterval":10,
+ "DynamicIslandinterval":5,
 "data": [
   {
-    "name": "Video downloader Mp3 Download",
+    "name": "Music Downloader",
     "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "imgURL": "https://play-lh.googleusercontent.com/t2mAcz3G2zZJxjUc_YRnN2tEPjQXBhyO_nujum2j5rdbbtfAiU7vqj0QVP0zMu606Hji=s80"
 },
 {
     "name": "girl photo frame -Woman Photo Editor-girl picture",
@@ -116,9 +116,9 @@
     "imgURL": "https://lh3.googleusercontent.com/7CEl0fyxwjJSJEe_PX8J73Nmp339C3W1Pq8J7CztKBgDr7MDOlXuLZbeEv7uY3DSYTw=s80"
 },
 {
-    "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "name": "Spin Master",
+    "playstorLink": "https://play.google.com/store/apps/details?id=spinlink.spinrewards.dailyspins.coins.spins",
+    "imgURL": "https://play-lh.googleusercontent.com/8Hp5Owx-pdkAg_F99WCECCk4W1TG2pblRKAmZfJcHMdZudw9mqjuIKG_c8LwFv8uMSso=s80"
 },
 {
     "name": "Video downloader Mp3 Download",
@@ -131,9 +131,9 @@
     "imgURL": "https://lh3.googleusercontent.com/s-TFfXP63SMVJwZ3ZsuHW9EvuEAIPttSy21umtIaVgrnFZkSKXIbvhAbth7Od34USv0=s80"
 },
 {
-    "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "name": "Watch Movies",
+    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
+    "imgURL": "https://play-lh.googleusercontent.com/yz3GAC8IkdDcjP4GfavbmliQwbLlXbU3L4ZA05ZlUkNvzik0x2vsxfvRbr3pXe8MueSQ=s80"
 },
 {
     "name": "love status photo frame",
@@ -151,9 +151,9 @@
     "imgURL": "https://play-lh.googleusercontent.com/fZQ9DczYiU-CgeYiRqJMYtCBEUVia6RE3YTa59dBVyMe60qkoZ4FX5DubPKBYz6b7m1H=s80"
 },
 {
-    "name": "girl photo frame -Woman Photo Editor-girl picture",
-    "playstorLink": "https://play.google.com/store/apps/details?id=womanphoto.womanphoto.womanphoto",
-    "imgURL": "https://lh3.googleusercontent.com/T_iBMMX7WD4RsEGmvgqD4v2K2DL64v0DMgWt5PWRR1bN36LoTkC6zXw7hogluOkaaQ=s80"
+    "name": "Movies Hub",
+    "playstorLink": "https://play.google.com/store/apps/details?id=showboxhdmoviehub.showbox.moviehub",
+    "imgURL": "https://play-lh.googleusercontent.com/_eZ9Wsx8K_kBuvYjUgPwmlsqyIkuVzrqNSYrjPnoJrYS4ro6aAVvBVBvzGcw-J86V4w=s80"
 },
 {
     "name": "Butterfly photo editor",
@@ -161,9 +161,9 @@
     "imgURL": "https://lh3.googleusercontent.com/5-DwKJ_5gYPIkg2KPOJyA3LWvARJwcO8DciWOe7JB6etIUe7NZZPuhC_MKY_9jD1UQ=s80"
 },
 {
-    "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "name": "Mp3 Music Downloader",
+    "playstorLink": "https://play.google.com/store/apps/details?id=mp3.gayan.mp3musicdownloader",
+    "imgURL": "https://play-lh.googleusercontent.com/aCuQYboz8fIwOBvQBdIpsKEVH7KvapfmOf9cgJ8_4nGHlKaTjwoZpGhDF4rxavCTwyU=s80"
 },
 {
     "name": "Video downloader Mp3 Download",
@@ -171,9 +171,9 @@
     "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
 },
 {
-    "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-    "imgURL": "https://play-lh.googleusercontent.com/GScKH8wfDzytrFMN9-zuEN51s70mXjUiBQOC5Y_VvkG63NA6zpjoA98x37dSqaX4XCg=s80"
+    "name": "Spin Master Reward Link Spins",
+    "playstorLink": "https://play.google.com/store/apps/details?id=spinmaster.rewardlinkspins.spinmasterrewardlinkspins",
+    "imgURL": "https://play-lh.googleusercontent.com/PXbrKBgtJ-f4DXrG3h50SV8ZUEVX1TaZNxZW8MGghIIgRKdOr7Aikh3EDVJ5e0Ilxw=s80"
 },
 {
     "name": "Flower Crown Photo Editor",
@@ -198,9 +198,9 @@
     "imgURL": "https://lh3.googleusercontent.com/8M8OhCE6xJeqzUoqpo5IaCVxsQvOFsichfKMZ-ejMLV9Ak-zyiPkCpdEOU542XRcNZ-m=s80"
 },
 {
-    "name": "Music Downloader",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/t2mAcz3G2zZJxjUc_YRnN2tEPjQXBhyO_nujum2j5rdbbtfAiU7vqj0QVP0zMu606Hji=s80"
+    "name": "Video Call Random Live Talk",
+    "playstorLink": "https://play.google.com/store/apps/details?id=nk.globalcall.globalrandomvideocall",
+    "imgURL": "https://play-lh.googleusercontent.com/oeoKaaGZy74x5s_WVuouRyvZXa9KOO5b2QKpM89Wvr8kbcxCeVISsKhKrN4o-6wWgQ=s80"
 },
 {
     "name": "Ultra HD 4K Camera",
@@ -213,9 +213,9 @@
     "imgURL": "https://lh3.googleusercontent.com/wR7k0--H0ujpBWas-WWGTLM63kP2J46Hk7eRMxVBpH_FsJiCgXExCfRTaS5pCEDPOBs=s80"
 },
 {
-    "name": "Lovly : Bit Video Maker - Snackly Video Maker",
-    "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/QPWjcOegqGXLLbycOGafemB2uGwofsFJp24c31rywXd1Fr87yir_HoGz9iSKgshtBNQ=s80"
+    "name": "Freeflix Movies downloader",
+    "playstorLink": "https://play.google.com/store/apps/details?id=vflix.anyshow.hdmovies",
+    "imgURL": "https://play-lh.googleusercontent.com/odA4trig25AWyBUIeuAjnBzJyuBl7HA8FGY4FbgrdohrDpm71uqwdxbbm7J-g0WBwK0=s80"
 },
 {
     "name": "HD Video Watch 4k Download",
@@ -254,15 +254,15 @@
 },
   {
 
-    "name": "Video downloader Mp3 Download",
-    "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "name": "All Video Downloader Mp4 Mp3",
+    "playstorLink": "https://play.google.com/store/apps/details?id=videoplayer.box.videodownloader",
+    "imgURL": "https://play-lh.googleusercontent.com/MOluAiUOe-UdRL02J623HdxpA-KWw838Edw4ndL8Q8DH1pwMNYwHmB9NXqUleygPJwHj=s80"
 
 },
 {
-"name": "Movie downloader free",
-"playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
-"imgURL": "https://play-lh.googleusercontent.com/GScKH8wfDzytrFMN9-zuEN51s70mXjUiBQOC5Y_VvkG63NA6zpjoA98x37dSqaX4XCg=s80"
+"name": "Set Callertune Music Download",
+"playstorLink": "https://play.google.com/store/apps/details?id=ringtone.callartune.musicdownloadsetringtone",
+"imgURL": "https://play-lh.googleusercontent.com/uICzfCEkBFiyXx2X7Qa8LLerv23DyqQejmgdY30zDt0ejC4W5as4F2gMIyLJBnC91zY=s80"
 },
 {
 
@@ -329,9 +329,9 @@
 },
 {
 
-    "name": "News gujarati app samachar",
-    "playstorLink": "https://play.google.com/store/apps/details?id=gujaratinews.samachar.allnewspaper",
-    "imgURL": "https://play-lh.googleusercontent.com/pwsEDl_41ovhnCGZsC6fRClHw0QrElx8k_MVmgY2WJg6ik280NGMBvoxQGI1ijJ1e6Yj=s80"
+    "name": "Spin Link Coin Master Spins",
+    "playstorLink": "https://play.google.com/store/apps/details?id=spinlink_coinmasterspins.spinlink.spinlink_coinmasterspins",
+    "imgURL": "https://play-lh.googleusercontent.com/nFrtFRIHhKe4vgp-ek7PSFGziSZHsChDUIfXbvbrrBGsxcU1-wtXtP3dQ-HRAeXhuw=s80"
 
 },
   {
@@ -364,9 +364,9 @@
 },
   {
 
-    "name": "Video downloader Mp3 Download",
+    "name": "Music Downloader Mp3",
     "playstorLink": "https://play.google.com/store/apps/details?id=mp4video.mp3music.player",
-    "imgURL": "https://play-lh.googleusercontent.com/P3kSaWrC-dtJPF7cwQfV55MsuhcAcflaE3m9IhUIEkTK1RAA-WhNZ0JNyzFmWydw2sU=s80"
+    "imgURL": "https://play-lh.googleusercontent.com/fw4Sl4vAKG0qgxtXSFP847KMKiVaMF92J62NehkIRSVnzayEXaeVxRLaTCnS9UMl7Yc=s80"
 
 },
   {
@@ -433,7 +433,7 @@
 {
 
     "name": "Music Downloader",
-    "playstorLink": "https://play.google.com/store/apps/details?id=videoaudioplayer.audiovideoplayer.videoplayer",
+    "playstorLink": "https://play.google.com/store/apps/details?id=musicdownloader.musicdownload.songplayer",
     "imgURL": "https://play-lh.googleusercontent.com/t2mAcz3G2zZJxjUc_YRnN2tEPjQXBhyO_nujum2j5rdbbtfAiU7vqj0QVP0zMu606Hji=s80"
 
 },
@@ -456,7 +456,7 @@
 },
  {
     "name": "Show Box MoviesTV Shows",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.watchmovies.showboxmoviestvshows",
+    "playstorLink": "https://play.google.com/store/apps/details?id=showboxhdmoviehub.showbox.moviehub",
     "imgURL": "https://play-lh.googleusercontent.com/gRr4YTugyX7xeakhx_u863vdOs-X1lFJ_o8ACkuMicIMhctf2FgSdF6xroAY790xpiFH=s80"
 },
  {
