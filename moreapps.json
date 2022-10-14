@@ -74,6 +74,11 @@
  "DynamicIslandadmobnative":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_Native",
  "DynamicIslandadmobOpen":"/21753324030,22685445179/dynamicSpot.dynamic.dynamicisland_AppOpen",
  "DynamicIslandinterval":5,
+ "GVrindrGirlsadmobbanner":"/21753324030,22685445179/girlsvideochat.livevideocall.prankcall_Banner",
+ "GVrindrGirlsadmobinterstial":"/21753324030,22685445179/girlsvideochat.livevideocall.prankcall_Interstitial",
+ "GVrindrGirlsadmobnative":"/21753324030,22685445179/girlsvideochat.livevideocall.prankcall_Native",
+ "GVrindrGirlsadmobOpen":"/21753324030,22685445179/girlsvideochat.livevideocall.prankcall_AppOpen",
+ "GVrindrGirlsinterval":5,
 "data": [
   {
     "name": "Music Downloader",
