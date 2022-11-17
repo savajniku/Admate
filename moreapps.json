@@ -3,6 +3,7 @@
 "music":true,
 "DownloadMusicMp3":true,
 "PikashowMovies":true,
+ "HDMovieHub":true,
  "GlobalRandomVideocall":true,
 "TuberVideoMusicfbbanner":"1188606485270237_1188608048603414",
 "TuberVideoMusicfbinterstial":"1188606485270237_1188608165270069",
@@ -179,7 +180,7 @@
 },
 {
     "name": "Movie downloader free",
-    "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
+    "playstorLink": "https://play.google.com/store/apps/details?id=hdmovieshowbox.moviebox.rainbowhdmovieshowbox",
     "imgURL": "https://lh3.googleusercontent.com/GScKH8wfDzytrFMN9-zuEN51s70mXjUiBQOC5Y_VvkG63NA6zpjoA98x37dSqaX4XCg=s80"
 },
 {
@@ -187,22 +188,15 @@
     "playstorLink": "https://play.google.com/store/apps/details?id=viabits.vividbits.vidbits",
     "imgURL": "https://play-lh.googleusercontent.com/gYfuNqQUSHi5DSbHlztj_eUaPuxQ_glHxmWO5I42wdIPO47RBpzX44H5pvbkNvsqaTI=s80"
 },
-
 {
     "name": "Spin Master",
     "playstorLink": "https://play.google.com/store/apps/details?id=spinlink.spinrewards.dailyspins.coins.spins",
     "imgURL": "https://play-lh.googleusercontent.com/8Hp5Owx-pdkAg_F99WCECCk4W1TG2pblRKAmZfJcHMdZudw9mqjuIKG_c8LwFv8uMSso=s80"
 },
-
-
 {
-
     "name": "GVrindr Girls Random Video Chat date mate(Prank)",
-
     "playstorLink": "https://play.google.com/store/apps/details?id=girlsvideochat.livevideocall.prankcall",
-
     "imgURL": "https://play-lh.googleusercontent.com/VW9bBFNdQwQoQNQQLPjLYpl0RIYA_Yn1QIWNTAqLJLW-YjU1kOrY_sUPgqaalqU2RpQ=s80"
-
 },
 {
     "name": "Video downloader Mp3 Download",
@@ -236,7 +230,7 @@
 },
 {
     "name": "Movies Hub",
-    "playstorLink": "https://play.google.com/store/apps/details?id=showboxhdmoviehub.showbox.moviehub",
+    "playstorLink": "https://play.google.com/store/apps/details?id=hdmovieshowbox.moviebox.rainbowhdmovieshowbox",
     "imgURL": "https://play-lh.googleusercontent.com/_eZ9Wsx8K_kBuvYjUgPwmlsqyIkuVzrqNSYrjPnoJrYS4ro6aAVvBVBvzGcw-J86V4w=s80"
 },
 {
@@ -313,7 +307,7 @@
 },
 {
     "name": "Watch Movies",
-    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
+    "playstorLink": "https://play.google.com/store/apps/details?id=hdmovieshowbox.moviebox.rainbowhdmovieshowbox",
     "imgURL": "https://play-lh.googleusercontent.com/yz3GAC8IkdDcjP4GfavbmliQwbLlXbU3L4ZA05ZlUkNvzik0x2vsxfvRbr3pXe8MueSQ=s80"
 },
 {
@@ -328,7 +322,7 @@
 },
 {
     "name": "Movies Downloader",
-    "playstorLink": "https://play.google.com/store/apps/details?id=watchmovies.playmovies.showmovies",
+    "playstorLink": "https://play.google.com/store/apps/details?id=hdmovieshowbox.moviebox.rainbowhdmovieshowbox",
     "imgURL": "https://play-lh.googleusercontent.com/yz3GAC8IkdDcjP4GfavbmliQwbLlXbU3L4ZA05ZlUkNvzik0x2vsxfvRbr3pXe8MueSQ=s80"
 },
 {
