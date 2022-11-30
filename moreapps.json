@@ -167,6 +167,11 @@
  "musicvideoDadmobnative":"/21753324030,22685445179/songdownloader.videodownloader.musicvideodownloader_Native",
  "musicvideoDadmobOpen":"/21753324030,22685445179/songdownloader.videodownloader.musicvideodownloader_AppOpen",
  "musicvideoDinterval":5,
+ "VideoDownloaderOldadmobbanner":"/21753324030,22685445179/videodownloader.videoplayer.videoshow_Banner",
+"VideoDownloaderOldadmobnative":"/21753324030,22685445179/videodownloader.videoplayer.videoshow_Native",
+"VideoDownloaderOldadmobinterstialsplash":"/21753324030,22685445179/videodownloader.videoplayer.videoshow_Interstitial",
+"VideoDownloaderOldadmobOpen":"/21753324030,22685445179/videodownloader.videoplayer.videoshow_AppOpen",
+"VideoDownloaderOldinterval":5,
 "data": [
   {
     "name": "Music Downloader",
