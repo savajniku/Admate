@@ -1,6 +1,7 @@
 {
 "error":false,
 "music":true,
+ "gayanmusic":true,
 "DownloadMusicMp3":true,
 "PikashowMovies":true,
  "HDMovieHub":false,
@@ -339,9 +340,9 @@
     "imgURL": "https://lh3.googleusercontent.com/R3IbsRmvINbp9FuCIfixddKIhYbM_1Yu_a7ODBcWa8khHAVcMi4usQ-LdOZyQ8HcjKs=s80"
 },
 {
-    "name": "Resize photo in kb jpg",
-    "playstorLink": "https://play.google.com/store/apps/details?id=resizephotoinkbjpg.resizephoto.resizeapp",
-    "imgURL": "https://lh3.googleusercontent.com/wR7k0--H0ujpBWas-WWGTLM63kP2J46Hk7eRMxVBpH_FsJiCgXExCfRTaS5pCEDPOBs=s80"
+    "name": "Mp3 music download",
+    "playstorLink": "https://play.google.com/store/apps/details?id=songdownloader.videodownloader.musicvideodownloader",
+    "imgURL": "https://play-lh.googleusercontent.com/nUn-93Vj8dAA9FoJGlXo8RYcet_Se1rkWlOjW4hP34KQ1KybaHViD1vfw8FDA1v9zg=s80"
 },
 {
     "name": "Freeflix Movies downloader",
