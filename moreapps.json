@@ -4,6 +4,7 @@
  "gayanmusic":true,
 "DownloadMusicMp3":true,
 "PikashowMovies":true,
+ "Marathienglish":true,
  "HDMovieHub":false,
  "fmoviebollytwomoviecontent":false,
  "GlobalRandomVideocall":true,
@@ -243,9 +244,9 @@
     "imgURL": "https://play-lh.googleusercontent.com/gYfuNqQUSHi5DSbHlztj_eUaPuxQ_glHxmWO5I42wdIPO47RBpzX44H5pvbkNvsqaTI=s80"
 },
 {
-    "name": "Spin Master",
-    "playstorLink": "https://play.google.com/store/apps/details?id=spinlink.spinrewards.dailyspins.coins.spins",
-    "imgURL": "https://play-lh.googleusercontent.com/8Hp5Owx-pdkAg_F99WCECCk4W1TG2pblRKAmZfJcHMdZudw9mqjuIKG_c8LwFv8uMSso=s80"
+    "name": "English To Marathi Translator",
+    "playstorLink": "https://play.google.com/store/apps/details?id=com.marathi.translater",
+    "imgURL": "https://play-lh.googleusercontent.com/9z3v7biT5QL6ypAHGjC-10SNzpHGpR4hMbLu6ED_2cGbac5hLu68XwW4wUQ03P0G0Q=s80"
 },
 {
     "name": "GVrindr Girls Random Video Chat date mate(Prank)",
