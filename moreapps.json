@@ -5,6 +5,7 @@
 "DownloadMusicMp3":true,
 "PikashowMovies":true,
  "Marathienglish":true,
+ "Punjabienglish":true,
  "Hindienglishtranslator":true,
  "HDMovieHub":false,
  "fmoviebollytwomoviecontent":false,
@@ -310,9 +311,9 @@
     "imgURL": "https://play-lh.googleusercontent.com/PXbrKBgtJ-f4DXrG3h50SV8ZUEVX1TaZNxZW8MGghIIgRKdOr7Aikh3EDVJ5e0Ilxw=s80"
 },
 {
-    "name": "Flower Crown Photo Editor",
-    "playstorLink": "https://play.google.com/store/apps/details?id=flowercrownphotoeditor.flowerphotoframe.flowersintheattic",
-    "imgURL": "https://lh3.googleusercontent.com/jENxFP4OoiN6UoyrofnYyKeRnetk1m8jHoPIykxr0Yg89G8UnjRR-R8rOt4VQg3Z0w=s80"
+    "name": "Punjabi To English Translator",
+    "playstorLink": "https://play.google.com/store/apps/details?id=com.punjabi.punjabitranslator.translation",
+    "imgURL": "https://play-lh.googleusercontent.com/wCdPfOP2q5XOq-7-zfrZwAVCrk5EjcXhG04sajZ7reG0Koqa9l7HSjpUSC-f2nMAH44=s80"
 },
 {
     "name": "Ration card list",
